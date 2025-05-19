@@ -32,10 +32,10 @@ These problems are **practical and foundational**, and will help learners become
 ---
 
 
-🙌 Contributions
+🙌 Contributions:
 This is a personal collection of rough assignments, but feel free to fork the repo and explore or add your own practice problems.
 
-👨‍💻 Author
+👨‍💻 Author:
 Atharva Parchure
 GitHub: https://github.com/atharvaparchure
 
